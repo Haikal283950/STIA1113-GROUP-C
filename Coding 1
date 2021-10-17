@@ -1,0 +1,59 @@
+package Assignment1;
+
+public class PrintCheckerPattern {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	//CheckerPattern
+	System.out.println("* * * * * ");
+	System.out.println(" * * * * *");
+	System.out.println("* * * * * ");
+	System.out.println(" * * * * *");
+	System.out.println("* * * * * ");
+}
+}
+
+package Assignment1;
+
+public class PrintSquarePattern {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	//Square Pattern
+	System.out.println("* * * * *");
+	System.out.println("*       *");
+	System.out.println("*       *");
+	System.out.println("*       *");
+	System.out.println("* * * * *");
+}
+}
+
+package Assignment1;
+
+public class printStarPattern {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	//Star Pattern
+	System.out.println("    *    ");
+	System.out.println("* *   * *");
+	System.out.println("   * *   ");
+	System.out.println("  *   *  ");
+	System.out.println(" *     * ");
+}
+}
+
+package Assignment1;
+
+public class printTriangularPattern {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	//Triangular Pattern
+	System.out.println("* * * * *");
+	System.out.println(" *     * ");
+	System.out.println("  *   *  ");
+	System.out.println("   * *   ");
+	System.out.println("    *    ");
+}
+}
