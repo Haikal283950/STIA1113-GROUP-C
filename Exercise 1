@@ -1,10 +1,11 @@
 package Assignment1;
 
+//CheckerPattern
+	
 public class PrintCheckerPattern {
 
 public static void main(String[] args) {
 	// TODO Auto-generated method stub
-	//CheckerPattern
 	System.out.println("* * * * * ");
 	System.out.println(" * * * * *");
 	System.out.println("* * * * * ");
@@ -14,12 +15,13 @@ public static void main(String[] args) {
 }
 
 package Assignment1;
+
+//Square Pattern
 
 public class PrintSquarePattern {
 
 public static void main(String[] args) {
 	// TODO Auto-generated method stub
-	//Square Pattern
 	System.out.println("* * * * *");
 	System.out.println("*       *");
 	System.out.println("*       *");
@@ -30,11 +32,12 @@ public static void main(String[] args) {
 
 package Assignment1;
 
+//Star Pattern
+
 public class printStarPattern {
 
 public static void main(String[] args) {
 	// TODO Auto-generated method stub
-	//Star Pattern
 	System.out.println("    *    ");
 	System.out.println("* *   * *");
 	System.out.println("   * *   ");
@@ -45,11 +48,12 @@ public static void main(String[] args) {
 
 package Assignment1;
 
+//Triangular Pattern
+
 public class printTriangularPattern {
 
 public static void main(String[] args) {
 	// TODO Auto-generated method stub
-	//Triangular Pattern
 	System.out.println("* * * * *");
 	System.out.println(" *     * ");
 	System.out.println("  *   *  ");
